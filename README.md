@@ -4,6 +4,7 @@
   learning GO lang to keep expanding on my knowledge.
 - I am currently trying to gather my previously completed schoolwork to upload here 
   on GitHub as well as trying to get a small portfolio website running.
+- LinkedIn link -> www.linkedin.com/in/nicholas-calzada-215193227
 
 <!---
 lumberjack249/lumberjack249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
